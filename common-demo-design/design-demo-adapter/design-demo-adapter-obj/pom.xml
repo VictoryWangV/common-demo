@@ -3,20 +3,15 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>common-demo-parent</artifactId>
+        <artifactId>design-demo-adapter</artifactId>
         <groupId>common.demo</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>common-demo-design</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>design-demo-adapter-obj</artifactId>
 
-    <description>设计模式</description>
-    <modules>
-        <module>design-demo-proxy</module>
-        <module>design-demo-adapter</module>
-    </modules>
+    <description>对象适配器模式。与类适配器模式的区别是，适配器类不采用继承适配者类的方式，而是将其聚合。</description>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
