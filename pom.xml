@@ -12,6 +12,7 @@
         <module>common-demo-log</module>
         <module>common-demo-design</module>
         <module>common-demo-sm</module>
+        <module>common-demo-spi</module>
     </modules>
 
     <properties>
