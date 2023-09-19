@@ -16,6 +16,7 @@
     <modules>
         <module>design-demo-proxy</module>
         <module>design-demo-adapter</module>
+        <module>design-demo-decorator</module>
     </modules>
 
     <properties>
