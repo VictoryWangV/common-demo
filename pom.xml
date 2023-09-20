@@ -13,6 +13,7 @@
         <module>common-demo-design</module>
         <module>common-demo-sm</module>
         <module>common-demo-spi</module>
+        <module>common-demo-lambda</module>
     </modules>
 
     <properties>
