@@ -15,6 +15,7 @@
         <module>common-demo-spi</module>
         <module>common-demo-lambda</module>
         <module>common-demo-reflections</module>
+        <module>common-demo-spring-boot</module>
     </modules>
 
     <properties>
