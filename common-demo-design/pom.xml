@@ -25,6 +25,7 @@
         <module>design-demo-template</module>
         <module>design-demo-strategy</module>
         <module>design-demo-chain</module>
+        <module>design-demo-filter</module>
     </modules>
 
     <properties>
