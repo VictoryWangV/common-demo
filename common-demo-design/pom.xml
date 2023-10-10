@@ -26,6 +26,7 @@
         <module>design-demo-strategy</module>
         <module>design-demo-chain</module>
         <module>design-demo-filter</module>
+        <module>design-demo-iterator</module>
     </modules>
 
     <properties>
