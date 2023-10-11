@@ -1,11 +1,13 @@
 package design.demo.iterator;
 
-public class NameRepository implements Container<String> {
+import java.util.Iterator;
+
+public class NameRepository implements Iterable<String> {
 
     public String[] names = {"Robert" , "John" ,"Julie" , "Lora"};
 
     @Override
-    public Iterator<String> getIterator() {
+    public Iterator<String> iterator() {
         return new NameIterator();
     }
 
