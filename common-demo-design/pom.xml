@@ -27,6 +27,7 @@
         <module>design-demo-chain</module>
         <module>design-demo-filter</module>
         <module>design-demo-iterator</module>
+        <module>design-demo-interpreter</module>
     </modules>
 
     <properties>
